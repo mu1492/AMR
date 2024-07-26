@@ -45,8 +45,6 @@ set(PROJECT_SOURCES
         RadioModTx.cpp
         RadioModTx.h
         RadioModTx.ui
-        Signal.cpp
-        Signal.h
         Modulation.cpp
         Modulation.h
         Dataset.cpp
